@@ -18,6 +18,11 @@ $instance['hypixel'] = array_merge($instance['hypixel'], array(
         'options.txt',
         'optionsof.txt'
     ),
+<<<<<<< HEAD
+    "backgroundImage" => ldosweb/instances/imagen/asd.png
+=======
+    "backgroundImage" =>
+>>>>>>> 9d725f8920f2ce438b65aabc13f01ab5e1a98650
     "whitelist" => array(),
     "whitelistActive" => false,
     "status" => array(
