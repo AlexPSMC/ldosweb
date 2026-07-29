@@ -18,6 +18,7 @@ $instance['hypixel'] = array_merge($instance['hypixel'], array(
         'options.txt',
         'optionsof.txt'
     ),
+    "backgroundImage" =>
     "whitelist" => array(),
     "whitelistActive" => false,
     "status" => array(
